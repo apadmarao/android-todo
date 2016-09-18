@@ -1,10 +1,7 @@
-package com.ani.simpletodo;
+package com.ani.todo;
 
 import org.junit.Test;
 
-import java.util.Calendar;
-import java.util.Date;
-import java.util.GregorianCalendar;
 import java.util.UUID;
 
 import static org.junit.Assert.assertEquals;

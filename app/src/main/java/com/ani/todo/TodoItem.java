@@ -1,4 +1,4 @@
-package com.ani.simpletodo;
+package com.ani.todo;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

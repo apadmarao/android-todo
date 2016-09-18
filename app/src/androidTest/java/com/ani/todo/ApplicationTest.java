@@ -1,4 +1,4 @@
-package com.ani.simpletodo;
+package com.ani.todo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

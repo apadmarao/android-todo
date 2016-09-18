@@ -1,9 +1,8 @@
-package com.ani.simpletodo;
+package com.ani.todo;
 
 import android.content.Context;
 import android.database.Cursor;
 import android.graphics.Color;
-import android.graphics.Paint;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

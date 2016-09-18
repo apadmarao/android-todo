@@ -1,4 +1,4 @@
-package com.ani.simpletodo;
+package com.ani.todo;
 
 import android.annotation.SuppressLint;
 import android.content.ContentValues;

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
-    tools:context="com.ani.simpletodo.MainActivity">
+    tools:context="com.ani.todo.MainActivity">
 
     <Button
         android:layout_width="wrap_content"
